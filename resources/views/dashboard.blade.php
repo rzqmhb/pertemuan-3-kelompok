@@ -4,6 +4,9 @@
 @stop
 
 @section('content_title')
+    <script>
+        alert("Selamat Datang!");
+    </script>
     Selamat Datang
     <br><br>
     <h6>Proyek Kelompok</h6>
