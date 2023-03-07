@@ -18,6 +18,9 @@
     <link rel="stylesheet" href="{{asset('/')}}dist/css/adminlte.min.css">
 </head>
 <body>
+    <script>
+        alert("Selamat Datang!");
+    </script>
     <aside class="control-sidebar control-sidebar-dark">
         <!-- Control sidebar content goes here -->
     </aside>

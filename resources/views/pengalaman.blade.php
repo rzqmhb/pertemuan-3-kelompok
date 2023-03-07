@@ -8,8 +8,22 @@
     Pengalaman Kuliah
 @stop
 @section('content')
+
+        <section class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="callout callout-info">
+                            <h5><i class="fas fa-info"></i> Berikut ini adalah pengalaman organisasi:</h5> <br>
+                            - Himpunan Mahasiswa Teknologi Informasi <br>
+                            - Forum Mahasiswa Bidikmisi/KIP Kuliah dan Afirmasi Pendidikan
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Default box -->
-        <div class="card">
+        <!-- <div class="card">
             <div class="card-header">
             <h3 class="card-title">Pengalaman Organisasi</h3>
 
@@ -27,7 +41,7 @@
             Organisasi: <br>
             - Himpunan Mahasiswa Teknologi Informasi <br>
             - Forum Mahasiswa Bidikmisi/KIP Kuliah dan Afirmasi Pendidikan
-            </div>
+            </div> -->
             <!-- /.card-body -->
-        </div>
+        <!-- </div> -->
 @stop
