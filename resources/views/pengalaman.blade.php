@@ -1,4 +1,5 @@
 @extends('layouts.template')
+@extends('layouts.template')
 @section('title')
     Pengalaman Kuliah
 @stop
@@ -10,7 +11,7 @@
         <!-- Default box -->
         <div class="card">
             <div class="card-header">
-            <h3 class="card-title">Title</h3>
+            <h3 class="card-title">Pengalaman Organisasi</h3>
 
             <div class="card-tools">
                 <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
@@ -22,7 +23,10 @@
             </div>
             </div>
             <div class="card-body">
-            Diisi pengalaman-pengalaman kuliah
+            Perbanyak pengalaman sebelum waktu tak memberimu kesempatan untuk mencarinya. haha
+            Organisasi: <br>
+            - Himpunan Mahasiswa Teknologi Informasi <br>
+            - Forum Mahasiswa Bidikmisi/KIP Kuliah dan Afirmasi Pendidikan
             </div>
             <!-- /.card-body -->
         </div>
